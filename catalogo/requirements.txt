@@ -1,0 +1,4 @@
+Flask==1.1.2
+psycopg2==2.8.6
+flask-cors
+redis==3.5.3
